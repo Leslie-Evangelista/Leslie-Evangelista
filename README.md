@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 * 🎨**My Skillset**: Figma, Adobe XD, HTML, CSS, JavaScript, React, Python, C# and Java.
 * 📚**Currently Learning**: Improve my UI designs and learn more about web development.
 
+## 🌍Connect with me
+* **Linkedin**: My Linkedin (https://www.linkedin.com/in/leslie-evangelista-517635251)
+* **Portfolio**: 🚧In progress🚧
