@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🚀About me 
+* 💼**My Profession**: UX/UI designer and I have a passion for Front-end development.
+* 🎨**My Skillset**: Figma, Adobe XD, HTML, CSS, JavaScript, React, Python, C# and Java.
+* 📚**Currently Learning**: Improve my UI designs and learn more about web development.
 
