@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## 🌍Connect with me
 * **Linkedin**: [My Linkedin](https://www.linkedin.com/in/leslie-evangelista-517635251)
-* **Portfolio**: 🚧In progress🚧
+* **Portfolio**: [My Portfolio](https://leslie-evangelista.myportfolio.com/)
